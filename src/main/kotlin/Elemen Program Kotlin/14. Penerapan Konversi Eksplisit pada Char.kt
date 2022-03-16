@@ -13,3 +13,9 @@ fun main(args: Array<String>) {
     c = i.toChar()
     println("Nilai ASCII dari $i dikonversi ke nilai tekstualnya yaitu $c")
 }
+
+/*
+American Standard Code for Information Interchange (ASCII)
+merupakan tabel kriptografi yang digunakan untuk memaksimalkan pengamanan
+informasi berupa pesan.
+ */
