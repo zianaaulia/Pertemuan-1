@@ -1,4 +1,4 @@
-package `Elemen Program Kotlin`
+package `Tipe Data`
 
 fun main(args: Array<String>) {
     println("Penggunaan Tipe Data bilangan Desimal (Floating-point)")
